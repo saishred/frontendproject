@@ -1,3 +1,3 @@
 # frontendproject
 
-This prkect cointains only the frontend of startup website.
+This project contains only the frontend of startup website.
